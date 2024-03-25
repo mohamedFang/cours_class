@@ -10,7 +10,7 @@ import cors from 'cors';
 
 const app = express()
 app.use(cors({
-    origin: 'https://registration-61cc0.web.app/register'
+    origin: 'https://registration-61cc0.web.app'
   }));
 
   
